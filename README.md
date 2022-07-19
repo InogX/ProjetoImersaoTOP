@@ -1,18 +1,17 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Desafio 1. O primeiro passo de alterar o endpoint que estava sendo utilizado não foi possível devido ao IMDb-api estar fora do ar a maior parte do tempo desde a liberação da aula 1.
 
-## Folder Structure
+Desafio 2. A utilização de cores e emojis funcionou após uma sequência de busca de informações na internet e no discord da Imersão Java.
 
-The workspace contains two folders by default, where:
+Desafio 3. A chave da API do IMDb não foi utilizada pela mesma situação que impossibilitou o desafio 1, sendo assim não havia uma chave para ser utilizada em arquivo apartado para eu testar a funcionalidade.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+O resultado final foi o seguinte:
 
-## Dependency Management
+![image](https://user-images.githubusercontent.com/109612541/179855563-036d8fc5-b80e-4a24-ab16-c20783d1061c.png)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+Sendo meu primeiro projeto acredito que funcionou bem, sendo que apenas tive aulas de lógica de programação e um curso básico de Java.
+
+Existe muito potencial futuro e irei utiliza-lo.
