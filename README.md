@@ -1,17 +1,17 @@
+*Bem vindo ao meu primeiro projeto.*
 
-Desafio 1. O primeiro passo de alterar o endpoint que estava sendo utilizado não foi possível devido ao IMDb-api estar fora do ar a maior parte do tempo desde a liberação da aula 1.
+# Projeto Aula 1 - Alura Imersão Java
 
-Desafio 2. A utilização de cores e emojis funcionou após uma sequência de busca de informações na internet e no discord da Imersão Java.
+Trata-se de através de programação Java, analisarmos uma API de filmes do IMDb e trazermos o ranking com um visual agradável e alguns dados específicos.
 
-Desafio 3. A chave da API do IMDb não foi utilizada pela mesma situação que impossibilitou o desafio 1, sendo assim não havia uma chave para ser utilizada em arquivo apartado para eu testar a funcionalidade.
-
-
-
-O resultado final foi o seguinte:
+O meu resultado ficou no seguinte formato:
 
 ![image](https://user-images.githubusercontent.com/109612541/179855563-036d8fc5-b80e-4a24-ab16-c20783d1061c.png)
 
+Alguns passos foram seguidos para a referida elaboração:
 
-Sendo meu primeiro projeto acredito que funcionou bem, sendo que apenas tive aulas de lógica de programação e um curso básico de Java.
+1. Obtido os dados da API do IMDb referente aos TOP 250 filmes;
+2. Através do Parse foi feita a separação dos filmes em uma lista;
+3. Utilizei os dados de Posição no Ranking, Nome do Filmes, Imagem do Poster, Nota geral no IMDb e Quantidade de votações;
+4. Após a organização dos dados acima, foi melhorada a visualização, adicionando as estrelas, a cor de fundo das mesmas para dar destaque, e a introdução para os dados, como por exemplo "Filme: " antes do nome do filme.
 
-Existe muito potencial futuro e irei utiliza-lo.
