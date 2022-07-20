@@ -6,7 +6,7 @@ Trata-se de através de programação Java, aprimorarmos o Projeto Aula 1, e ger
 
 O meu resultado ficou no seguinte formato:
 
-![The Godfather](https://user-images.githubusercontent.com/109612541/180035713-8d69e659-04c8-49a0-baf6-24c9053fb408.png)
+<img src="https://user-images.githubusercontent.com/109612541/180035713-8d69e659-04c8-49a0-baf6-24c9053fb408.png" width="200" height="300">
 
 
 Alguns passos foram seguidos para a referida elaboração:
